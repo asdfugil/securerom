@@ -341,6 +341,15 @@
 					"version" : "iBoot-5281.0.0.100.22",
 					"from" : "D53gAP pre-EVT",
 					"desc" : "Bootrom for iPhone 12 [mini], 12 Pro [Max] and iPad Air 4"
+				},
+				{
+					"link" : "resources/APROM/SecureROM for t8103si, iBoot-5540.0.0.400.2",
+					"name" : "SecureROM for t8103si",
+					"date" : "13.6.23",
+					"picture" : "resources/Apple_M1.jpg",
+					"version" : "iBoot-5540.0.0.400.2",
+					"from" : "iPad Pro (4th generation)",
+					"desc" : "Bootrom for iPad Pro (4th generation)"
 				}
 			]
 		 },
@@ -462,6 +471,15 @@
 					"version" : "private_build...(root@squash.sd.apple.com)...2019/03/16...00:42:21...",
 					"from" : "D53gAP pre-EVT",
 					"desc" : "SEPROM from A14 of revision A0 (first one)"
+				},
+				{
+					"link" : "resources/SEPROM/AppleSEPROM-M1-B1",
+					"name" : "M1 B1 SEPROM",
+					"date" : "16.6.23",
+					"picture" : "resources/Apple_M1.jpg",
+					"version" : "AppleSEPROM-520.0.102.200.16",
+					"from" : "iPad Pro (4th generation)",
+					"desc" : "SEPROM from M1 of revision B1"
 				}
  			]
  		  }
