@@ -353,12 +353,12 @@
 				},
 				{
 					"link" : "resources/APROM/SecureROM for t8110si, iBoot-6338.0.0.200.15",
-					"name" : "SecureROM for t8110si",
+					"name" : "SecureROM for t8110si (non-production)",
 					"date" : "13.6.23",
 					"picture" : "resources/Apple_A15.jpg",
 					"version" : "iBoot-6338.0.0.200.15",
-					"from" : "unknown",
-					"desc" : "Bootrom for A15 (unknown revision)"
+					"from" : "D17AP",
+					"desc" : "Bootrom for A15 of revision A0"
 				}
 			]
 		 },
@@ -492,12 +492,12 @@
 				},
 				{
 					"link" : "resources/SEPROM/AppleSEPROM-520.400.46.200.4",
-					"name" : "SEPROM for A15",
+					"name" : "A15 A0 SEPROM",
 					"date" : "16.6.23",
 					"picture" : "resources/Apple_A15.jpg",
 					"version" : "AppleSEPROM-520.400.46.200.4",
-					"from" : "unknown",
-					"desc" : "SEPROM for A15 (unknown revision)"
+					"from" : "D17AP",
+					"desc" : "SEPROM for A15 of revision A0"
 				}
  			]
  		  }
