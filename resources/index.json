@@ -340,7 +340,7 @@
 					"picture" : "resources/a13_bionic_die.jpg",
 					"version" : "iBoot-4479.0.0.100.4",
 					"from" : "D421AP DVT",
-					"desc" : "Bootrom for iPhone 11, 11 Pro [Max]"
+					"desc" : "Bootrom for iPhone 11, 11 Pro [Max], iPhone SE (2nd generation)"
 				},
 				{
 					"link" : "resources/APROM/SecureROM for t8101si, iBoot-5281.0.0.100.22",
