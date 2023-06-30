@@ -352,6 +352,15 @@
 					"desc" : "Bootrom for iPhone 12 [mini], 12 Pro [Max] and iPad Air 4"
 				},
 				{
+					"link" : "resources/APROM/SecureROM for t8101si, iBoot-5281.0.0.100.34",
+					"name" : "SecureROM for t8101si (non-production)",
+					"date" : "30.6.23",
+					"picture" : "resources/Apple_A14.jpg",
+					"version" : "iBoot-5281.0.0.100.34",
+					"from" : "D53gAP",
+					"desc" : "Bootrom for iPhone 12 [mini], 12 Pro [Max] and iPad Air 4"
+				},
+				{
 					"link" : "resources/APROM/SecureROM for t8103si, iBoot-5540.0.0.400.2",
 					"name" : "SecureROM for t8103si",
 					"date" : "13.6.23",
@@ -507,6 +516,15 @@
 					"version" : "private_build...(root@squash.sd.apple.com)...2019/03/16...00:42:21...",
 					"from" : "D53gAP pre-EVT",
 					"desc" : "SEPROM from A14 of revision A0 (first one)"
+				},
+				{
+					"link" : "resources/SEPROM/AppleSEPROM-Sicily-B0",
+					"name" : "Sicily B0 SEPROM",
+					"date" : "30.6.23",
+					"picture" : "resources/Apple_A14.jpg",
+					"version" : "private_build...(root@squash.sd.apple.com)...2019/08/14...19:15:16...",
+					"from" : "D53gAP",
+					"desc" : "SEPROM from A14 of revision B0"
 				},
 				{
 					"link" : "resources/SEPROM/AppleSEPROM-M1-B1",
