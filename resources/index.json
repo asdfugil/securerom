@@ -368,6 +368,15 @@
 					"version" : "iBoot-6338.0.0.200.15",
 					"from" : "D17AP",
 					"desc" : "Bootrom for A15 of revision A0"
+				},
+				{
+					"link" : "resources/APROM/SecureROM for t8112si, iBoot-6821.0.0.200.16",
+					"name" : "SecureROM for t8112si",
+					"date" : "30.6.23",
+					"picture" : "resources/Apple_M2.jpg",
+					"version" : "iBoot-6821.0.0.200.16",
+					"from" : "iPad Pro (6th generation)",
+					"desc" : "Bootrom for iPad Pro (6th generation)"
 				}
 			]
 		 },
@@ -516,6 +525,15 @@
 					"version" : "AppleSEPROM-520.400.46.200.4",
 					"from" : "D17AP",
 					"desc" : "SEPROM for A15 of revision A0"
+				},
+				{
+					"link" : "resources/SEPROM/AppleSEPROM-M2-B1",
+					"name" : "M2 B1 SEPROM",
+					"date" : "30.6.23",
+					"picture" : "resources/Apple_M2.jpg",
+					"version" : "AppleSEPROM-544.0.0.200.1",
+					"from" : "iPad Pro (6th generation)",
+					"desc" : "SEPROM for M2 of revision B1"
 				}
  			]
  		  }
