@@ -379,13 +379,22 @@
 					"desc" : "Bootrom for A15 of revision A0"
 				},
 				{
+					"link" : "resources/APROM/SecureROM for t8110si, iBoot-6338.0.0.200.15",
+					"name" : "SecureROM for t8110si",
+					"date" : "22.11.23",
+					"picture" : "resources/Apple_A15.jpg",
+					"version" : "iBoot-6338.0.0.200.19",
+					"from" : "D17AP",
+					"desc" : "Bootrom for A15 of revision B1"
+				},
+				{
 					"link" : "resources/APROM/SecureROM for t8112si, iBoot-6821.0.0.200.16",
 					"name" : "SecureROM for t8112si",
 					"date" : "30.6.23",
 					"picture" : "resources/Apple_M2.jpg",
 					"version" : "iBoot-6821.0.0.200.16",
 					"from" : "iPad Pro (6th generation)",
-					"desc" : "Bootrom for iPad Pro (6th generation)"
+					"desc" : "Bootrom for iPad Pro (6th generation), 2022 13 Inch MBA and MBP, 2023 15 inch MBP, and 2023 Mac Mini "
 				}
 			]
 		 },
@@ -528,7 +537,7 @@
 				},
 				{
 					"link" : "resources/SEPROM/AppleSEPROM-M1-B1",
-					"name" : "M1 B1 SEPROM",
+					"name" : "Tonga B1 SEPROM",
 					"date" : "16.6.23",
 					"picture" : "resources/Apple_M1.jpg",
 					"version" : "AppleSEPROM-520.0.102.200.16",
@@ -537,7 +546,7 @@
 				},
 				{
 					"link" : "resources/SEPROM/AppleSEPROM-520.400.46.200.4",
-					"name" : "A15 A0 SEPROM",
+					"name" : "Ellis A0 SEPROM",
 					"date" : "16.6.23",
 					"picture" : "resources/Apple_A15.jpg",
 					"version" : "AppleSEPROM-520.400.46.200.4",
@@ -546,7 +555,7 @@
 				},
 				{
 					"link" : "resources/SEPROM/AppleSEPROM-M2-B1",
-					"name" : "M2 B1 SEPROM",
+					"name" : "Staten B1 SEPROM",
 					"date" : "30.6.23",
 					"picture" : "resources/Apple_M2.jpg",
 					"version" : "AppleSEPROM-544.0.0.200.1",
